@@ -1,74 +1,114 @@
-# 🧠 AI Tools Assignment – *Mastering the AI Toolkit*
+<div align="center">
 
-**Authors:** Nwokike Onyeka, Obinwa Ogechi Perpetual  
-**Course:** AI Tools and Applications  
-**Institution:** [Power Learn Project Academy]  
-**Date:** October 2025  
-
----
-# [Live URL](https://group71.streamlit.app/)
----
-
-## 📘 Project Overview
-
-This repository contains my complete submission for the **AI Tools Assignment** on the theme *“Mastering the AI Toolkit.”*  
-The project demonstrates understanding and practical use of modern AI frameworks — **TensorFlow**, **PyTorch**, **Scikit-learn**, and **spaCy** — across theory, implementation, and ethics.
+# 🚀 AI SOFTWARE TOOLS  
+### *Intelligent Tools for Modern Software Engineering*
 
 ---
 
-## 🧩 Assignment Structure
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![AI](https://img.shields.io/badge/AI-Tools-orange)
+![Platform](https://img.shields.io/badge/platform-cross--platform-success)
 
-| Part | Description | Deliverable |
-|------|--------------|--------------|
-| **Part 1** | Theoretical Understanding of AI tools | [Theoretical_Answers.md](./Theoretical_Answers.md) |
-| **Part 2 – Task 1** | Classical ML using Scikit-learn (Iris Classifier) | [Iris Classifier Notebook](./Iris_Classifier_JasonChiagozie.ipynb) |
-| **Part 2 – Task 2** | Deep Learning using TensorFlow (MNIST CNN) | [MNIST CNN Notebook](./MNIST_CNN_JasonChiagozie.ipynb) |
-| **Part 2 – Task 3** | NLP using spaCy (Entity & Sentiment Extraction) | [NLP Task](./NLP_Task_spaCy.md) |
-| **Part 3** | Ethical Analysis and Reflection | [Ethical_Reflection.md](./Ethical_Reflection.md) |
+<br>
 
----
+**Software Development Course 2025**  
+*AI-powered tooling • Automation • Modern Software Engineering*
 
-## 🧠 Tools & Frameworks Used
-
-- **TensorFlow** – for deep learning and CNN model building.  
-- **Scikit-learn** – for classical machine learning (Decision Tree Classifier).  
-- **spaCy** – for NLP tasks like Named Entity Recognition and Sentiment Analysis.  
-- **Jupyter Notebook / Google Colab** – for experimentation and visualization.  
-- **GitHub** – for version control and project submission.
+</div>
 
 ---
 
-## 🧪 Results Summary
+# 🧠 AI Software Tools
 
-### **Iris Classifier**
-- Algorithm: Decision Tree Classifier  
-- Accuracy: ~97%  
-- Evaluation Metrics: Accuracy, Precision, Recall  
+This repository contains examples, demonstrations, and small tools that apply **Artificial Intelligence** to support and automate tasks in modern **Software Engineering**.  
+It builds on the original project from:  
+👉 https://github.com/Ogetec-python/AI_Software_Tools  
 
-### **MNIST CNN**
-- Model: Convolutional Neural Network  
-- Test Accuracy: >99%  
-- Output: Classification of handwritten digits (0–9)  
-
-### **NLP with spaCy**
-- Task: Named Entity Recognition and Rule-Based Sentiment Analysis  
-- Entities Extracted: Product Names, Brands  
-- Sentiment Output: Positive / Negative summary  
+The goal is to showcase how AI enhances productivity, analysis, automation, and decision-making across the development lifecycle.
 
 ---
 
-## ⚖️ Ethical Reflection Summary
+## 🎯 Objectives
 
-This project emphasizes **responsible AI use** — addressing bias, fairness, transparency, privacy, and human accountability.  
-See the full write-up: [Ethical_Reflection.md](./Ethical_Reflection.md)
-
----
-
-## 🏁 Final Notes
-
-This project demonstrates the practical application of AI frameworks in **machine learning, deep learning, and NLP** — combined with ethical awareness.  
-It fulfills all parts of the *AI Tools Assignment* and serves as a foundation for future AI engineering projects.
+- Demonstrate practical AI-powered tools used in software development  
+- Explore automation, code intelligence, and smart developer workflows  
+- Create a unified, well-documented, and professional academic repository  
 
 ---
 
-> 💡 *“Small wins lead to big successes — test code incrementally and think ethically.”*
+## 🧩 Repository Structure
+
+```bash
+ai_software_tools/
+│
+├── src/          # Code samples and AI tools
+│
+├── notebooks/    # Jupyter notebooks for demonstrations
+│
+├── docs/         # Documentation and supporting material
+│
+└── README.md     # Main documentation (this file)
+```
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python 3.x  
+- Machine Learning  
+- Data analysis and automation tools  
+- Jupyter Notebooks  
+- Developer productivity utilities  
+- Lightweight AI-powered helper scripts  
+
+---
+
+## 💡 Example Capabilities
+
+- Code analysis using simple ML techniques  
+- Basic AI-driven automation workflows  
+- Data processing and feature extraction  
+- Experimental prototypes for intelligent developer tools  
+
+---
+
+## ▶️ How to Get Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/software-development-course-2025/ai_software_tools
+```
+
+Install dependencies (if required):
+
+```bash
+pip install -r requirements.txt
+```
+
+Explore the folders:
+
+- `src/` for scripts  
+- `notebooks/` for demos  
+- `docs/` for supporting information  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome — even small improvements!  
+You may:
+
+- Open issues  
+- Submit pull requests  
+- Improve documentation  
+- Add new tool examples  
+
+---
+
+## 🙌 Credits
+
+Original work by **Ogetec-python**.  
+Enhanced, documented, and standardized by **Augusto Mate**.
+
